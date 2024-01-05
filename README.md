@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on software engineering projects
 - 📫 How to reach me
   |email: saramarcalrocha@gmail.com|
-  |linkedin: [linkedin-sara-marcal-rocha](https://www.linkedin.com/in/sara-mar%C3%A7al-rocha-84b8a626a/)|
+  |linkedin: [linkedin-sara-marcal-rocha](https://www.linkedin.com/in/saramarcaltech/)|
   
 
 <!---
