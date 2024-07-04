@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @saramarcal
-- 👀 I’m interested in Back-end (Phyton, C#) and Data Engineering
-- 🌱 I’m currently learning HTML, CSS and JS
-- 💞️ I’m looking to collaborate on software engineering projects
+- 👀 I’m interested in data analysis, business intelligence, and data visualization.
+- 🌱 I’m currently learning SQL and Power BI to enhance my skills in data analysis and dashboard creation.
+- 💞️ I’m looking to collaborate on projects related to data analysis, especially those involving business insights.
 - 📫 How to reach me
   |email: saramarcalrocha@gmail.com|
-  |linkedin: [linkedin-sara-marcal-rocha](https://www.linkedin.com/in/saramarcaltech/)|
+  |linkedin: [linkedin-sararochatech](https://br.linkedin.com/in/sararochatech)|
   
 
 <!---
