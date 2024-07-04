@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saramarcal
+- 👋 Hi, I’m Sara
 - 👀 I’m interested in data analysis, business intelligence, and data visualization.
 - 🌱 I’m currently learning SQL and Power BI to enhance my skills in data analysis and dashboard creation.
 - 💞️ I’m looking to collaborate on projects related to data analysis, especially those involving business insights.
